@@ -73,8 +73,11 @@ Copying them from queries.js and pasting them into the shell, or
 
 Executing the file manually inside mongosh (if supported by your environment)
 
-🖼️ Screenshot
-A screenshot (screenshot.png) is included showing the books collection inside MongoDB Compass, with sample documents successfully inserted.
+## 🖼️ Screenshot
+
+Here’s a screenshot showing the `books` collection inside MongoDB Compass:
+
+![Books Collection Screenshot](books.png)
 
 ✅ Requirements Met
  Inserted 10+ books with all required fields
